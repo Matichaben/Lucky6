@@ -1,0 +1,33 @@
+{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "9434-55306648-2",
+            "CheckoutRequestID": "ws_CO_06042023012017075768168060",
+            "ResultCode": 0,
+            "ResultDesc": "The service request is processed successfully.",
+            "CallbackMetadata": {
+                "Item": [
+                    {
+                        "Name": "Amount",
+                        "Value": 1.00
+                    },
+                    {
+                        "Name": "MpesaReceiptNumber",
+                        "Value": "RD62HY13WU"
+                    },
+                    {
+                        "Name": "Balance"
+                    },
+                    {
+                        "Name": "TransactionDate",
+                        "Value": 20230406012018
+                    },
+                    {
+                        "Name": "PhoneNumber",
+                        "Value": 254768168060
+                    }
+                ]
+            }
+        }
+    }
+}
