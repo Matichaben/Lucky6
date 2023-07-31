@@ -12,7 +12,7 @@ $this->title = 'Lucky Sita';
 <div style="color: white" class="site-index">
     <div class="containery">
         <marquee>Play play play and be a lucky winner!!!</marquee>
-        <h1>Number Gambling Game</h1>
+        <h1>LUCKYSITA</h1>
         <p class="choose">Choose a number:</p>
         <div class="row cubes">
             <?php
